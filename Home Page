@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      line-height: 1.6;
+      padding: 20px;
+    }
+    h1 {
+      color: #333;
+    }
+    a.button {
+      display: inline-block;
+      padding: 10px 15px;
+      background: black;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome!</h1>
+  <p>This is my website built with GitHub Pages.</p>
+
+  <p>
+    <a class="button" href="mailto:kissyamothachilioil@gmail.com">
+      Email Me
+    </a>
+  </p>
+
+</body>
+</html>
